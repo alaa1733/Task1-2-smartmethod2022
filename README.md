@@ -1,1 +1,1 @@
-# Task1-smartmethod2022
+# Task1-SmartMethod2022
